@@ -1,0 +1,78 @@
+unique_id,timestamp,x_shape,eval_test,model_version,model_version_note,runtime
+4163839f-8e9a-417b-9843-4f1700049d44,1612432549.662932,21 x 1,"{'country': 'United Kingdom', 'rmse': 4805.55, 'mape': 19}",0.1,auto_arima,000:00:01
+2daf5fa8-085e-4343-9466-bd2409a26a04,1612432549.8237162,21 x 1,"{'country': 'France', 'rmse': 230.66, 'mape': 26}",0.1,auto_arima,000:00:01
+93e3e317-8efc-4eb7-9a41-8e0b7a0d73d5,1612432549.937418,21 x 1,"{'country': 'Belgium', 'rmse': 156.52, 'mape': 48}",0.1,auto_arima,000:00:01
+830d387d-e80c-4ed3-b300-c43f7e2b1069,1612432550.040472,21 x 1,"{'country': 'EIRE', 'rmse': 442.61, 'mape': 24}",0.1,auto_arima,000:00:02
+475e2171-7910-4ab1-957e-f9740c2addb5,1612432550.141429,21 x 1,"{'country': 'Germany', 'rmse': 385.81, 'mape': 36}",0.1,auto_arima,000:00:02
+046daee4-e7d7-4276-9757-837eb20f1fe9,1612432550.273854,21 x 1,"{'country': 'Portugal', 'rmse': 2895.75, 'mape': 68}",0.1,auto_arima,000:00:02
+89a66ac7-2e9d-4a07-84bf-1cefbf30f852,1612432550.392243,21 x 1,"{'country': 'Netherlands', 'rmse': 358.91, 'mape': 958}",0.1,auto_arima,000:00:02
+00e6cf32-7801-42d9-8a93-c6542c14ae1e,1612432550.499708,21 x 1,"{'country': 'Spain', 'rmse': 233.64, 'mape': 51}",0.1,auto_arima,000:00:02
+faf41ef1-274d-40ca-bd91-7af20f19dbdd,1612432550.633085,21 x 1,"{'country': 'Norway', 'rmse': 1344.39, 'mape': 100}",0.1,auto_arima,000:00:02
+de65b028-18a1-4d5b-8d00-d322ef076e49,1612432550.763974,21 x 1,"{'country': 'Switzerland', 'rmse': 471.57, 'mape': 44}",0.1,auto_arima,000:00:02
+a9616652-f1d1-432e-8809-26ae4cd4839f,1612438037.707144,5 x 1,"{'country': 'United Kingdom', 'rmse': 32799.6, 'mape': 100}",0.1,auto_arima,000:00:01
+0ffb8453-58c2-455a-9c8f-b39085c9a529,1612438037.869822,5 x 1,"{'country': 'Spain', 'rmse': 470.19, 'mape': 100}",0.1,auto_arima,000:00:01
+f48adc43-b59a-4fba-8de0-c0e0d7d6d59c,1612438037.9948869,5 x 1,"{'country': 'France', 'rmse': 1077.87, 'mape': 100}",0.1,auto_arima,000:00:01
+0a6fe8e5-6871-427a-ae0f-27bde1c9b5cb,1612438038.1141021,5 x 1,"{'country': 'Germany', 'rmse': 935.34, 'mape': 100}",0.1,auto_arima,000:00:01
+a1eedfa1-8044-44e3-a90b-c4fb2d7af384,1612438038.2599528,5 x 1,"{'country': 'EIRE', 'rmse': 1125.31, 'mape': 100}",0.1,auto_arima,000:00:01
+1570c6e4-1645-4c63-82e8-d859f9d40c4e,1612438038.378797,5 x 1,"{'country': 'Belgium', 'rmse': 513.34, 'mape': 100}",0.1,auto_arima,000:00:01
+41c08886-19d5-4c39-85c1-08a12c5bd3f6,1612438038.557278,5 x 1,"{'country': 'Netherlands', 'rmse': 1037.65, 'mape': 100}",0.1,auto_arima,000:00:01
+2d9418b5-72e0-4565-8129-f37781a00953,1612438038.697023,5 x 1,"{'country': 'Norway', 'rmse': 826.75, 'mape': 100}",0.1,auto_arima,000:00:02
+81bc407f-0d67-43a8-822e-ea762998ebfb,1612438038.823395,5 x 1,"{'country': 'Switzerland', 'rmse': 839.99, 'mape': 100}",0.1,auto_arima,000:00:02
+dc6842b5-3fc2-487c-9b78-e3d2ffcd49f9,1612438674.520808,5 x 1,"{'country': 'United Kingdom', 'rmse': 12227.42, 'mape': 35}",0.1,auto_arima,000:00:01
+5e10e62d-53e6-4a22-9c30-5790f33144c6,1612438674.64609,5 x 1,"{'country': 'Spain', 'rmse': 174.39, 'mape': 46}",0.1,auto_arima,000:00:01
+28c3e38d-57c8-456d-85de-fdd88dd61210,1612438674.754401,5 x 1,"{'country': 'France', 'rmse': 577.09, 'mape': 36}",0.1,auto_arima,000:00:01
+71d13cbe-5f0b-4b93-b2f1-fde930c35a58,1612438674.8820338,5 x 1,"{'country': 'Germany', 'rmse': 228.78, 'mape': 21}",0.1,auto_arima,000:00:01
+ae72edb0-7d78-407a-a80d-9d37c6270c14,1612438675.000763,5 x 1,"{'country': 'EIRE', 'rmse': 1572.78, 'mape': 151}",0.1,auto_arima,000:00:02
+c334b0f4-9659-47a2-917c-6847781d3587,1612438675.105268,5 x 1,"{'country': 'Belgium', 'rmse': 288.07, 'mape': 52}",0.1,auto_arima,000:00:02
+d2477234-5551-4a73-88e8-d9c9b0f2e4f6,1612438675.2306821,5 x 1,"{'country': 'Netherlands', 'rmse': 533.53, 'mape': 43}",0.1,auto_arima,000:00:02
+9bb1a38e-d477-47ca-8966-e2164be8ff6d,1612438675.334492,5 x 1,"{'country': 'Norway', 'rmse': 289.91, 'mape': 38}",0.1,auto_arima,000:00:02
+65a67802-d3b0-4f62-8e61-7b5f77f465a5,1612438675.4338188,5 x 1,"{'country': 'Switzerland', 'rmse': 378.36, 'mape': 84}",0.1,auto_arima,000:00:02
+35b5334e-1891-48dd-89aa-b2cb9101f2a0,1612438937.542133,21 x 1,"{'country': 'United Kingdom', 'rmse': 4805.55, 'mape': 19}",0.1,auto_arima,000:00:01
+0ff7b881-4abc-4332-b6ab-89173ff18779,1612438937.666827,21 x 1,"{'country': 'France', 'rmse': 230.66, 'mape': 26}",0.1,auto_arima,000:00:02
+3a08a461-ff5b-4d3a-8eba-6647da4ce818,1612438937.7862458,21 x 1,"{'country': 'Belgium', 'rmse': 156.52, 'mape': 48}",0.1,auto_arima,000:00:02
+16399d1e-33fa-447e-820c-679799cd63e1,1612438937.904626,21 x 1,"{'country': 'EIRE', 'rmse': 442.61, 'mape': 24}",0.1,auto_arima,000:00:02
+4874e8a8-3cf4-483e-bad5-6f29c8b84110,1612438938.0206661,21 x 1,"{'country': 'Germany', 'rmse': 385.81, 'mape': 36}",0.1,auto_arima,000:00:02
+2bf915f7-bba5-4b7b-b2f1-4f518f6b6c0c,1612438938.131957,21 x 1,"{'country': 'Portugal', 'rmse': 2895.75, 'mape': 68}",0.1,auto_arima,000:00:02
+e787e059-aafb-4f61-a362-c3491e0f89b9,1612438938.245345,21 x 1,"{'country': 'Netherlands', 'rmse': 358.91, 'mape': 958}",0.1,auto_arima,000:00:02
+24726172-c7b6-48bb-9407-a614fef481db,1612438938.356374,21 x 1,"{'country': 'Spain', 'rmse': 233.64, 'mape': 51}",0.1,auto_arima,000:00:02
+0439032a-3bb0-4f49-8f53-db3d11e9cd79,1612438938.4824178,21 x 1,"{'country': 'Norway', 'rmse': 1344.39, 'mape': 100}",0.1,auto_arima,000:00:02
+62609e99-24a2-433e-83e4-c36c8932114a,1612438938.6330051,21 x 1,"{'country': 'Switzerland', 'rmse': 471.57, 'mape': 44}",0.1,auto_arima,000:00:02
+772d899c-ef47-44b8-b2b2-94b017e6e59d,1612438948.9663749,5 x 1,"{'country': 'United Kingdom', 'rmse': 18453.19, 'mape': 38}",0.1,auto_arima,000:00:00
+5a981d91-07b4-4ebd-86da-1c431684a602,1612438949.078785,5 x 1,"{'country': 'Spain', 'rmse': 424.42, 'mape': 131}",0.1,auto_arima,000:00:00
+bfb05928-db83-4b32-b63b-b0b3bcf6e8c1,1612438949.188284,5 x 1,"{'country': 'France', 'rmse': 551.04, 'mape': 32}",0.1,auto_arima,000:00:00
+764665ed-6f19-4ffb-aeca-faea2134c738,1612438949.2874272,5 x 1,"{'country': 'Germany', 'rmse': 526.57, 'mape': 50}",0.1,auto_arima,000:00:00
+6ca42f25-486b-421e-ab01-a3ad70c09ee8,1612438949.391597,5 x 1,"{'country': 'EIRE', 'rmse': 235.34, 'mape': 21}",0.1,auto_arima,000:00:00
+9313b262-4f33-48c9-b270-508fe7759b95,1612438949.493731,5 x 1,"{'country': 'Belgium', 'rmse': 344.82, 'mape': 64}",0.1,auto_arima,000:00:00
+21feb5ef-ede9-421a-ba2e-d7802be03d8d,1612438949.603592,5 x 1,"{'country': 'Netherlands', 'rmse': 341.2, 'mape': 36}",0.1,auto_arima,000:00:00
+b1ded647-2b5e-4dba-be57-06271a53a3b0,1612438949.708378,5 x 1,"{'country': 'Norway', 'rmse': 826.75, 'mape': 100}",0.1,auto_arima,000:00:00
+055b860a-bdc7-467f-82e2-e3b71e23a80c,1612438949.83309,5 x 1,"{'country': 'Switzerland', 'rmse': 380.8, 'mape': 87}",0.1,auto_arima,000:00:01
+433d4bda-7b72-4403-8383-bef190efac20,1612440039.276936,21 x 1,"{'country': 'United Kingdom', 'rmse': 4805.55, 'mape': 19}",0.1,auto_arima,000:00:01
+614377e1-ea58-4e52-9281-b29acc5ced1c,1612440039.429537,21 x 1,"{'country': 'France', 'rmse': 230.66, 'mape': 26}",0.1,auto_arima,000:00:02
+002cbcc1-19aa-48f2-b569-8177b2d67a3c,1612440039.55689,21 x 1,"{'country': 'Belgium', 'rmse': 156.52, 'mape': 48}",0.1,auto_arima,000:00:02
+14fe5e5b-f289-46d3-8e0b-2f52802136a0,1612440039.9935098,21 x 1,"{'country': 'EIRE', 'rmse': 442.61, 'mape': 24}",0.1,auto_arima,000:00:02
+71969756-9775-4862-97a0-2399682f3559,1612440040.2430668,21 x 1,"{'country': 'Germany', 'rmse': 385.81, 'mape': 36}",0.1,auto_arima,000:00:02
+40e939e2-c867-467b-bbb4-7ba6ee224cde,1612440040.4120378,21 x 1,"{'country': 'Portugal', 'rmse': 2895.75, 'mape': 68}",0.1,auto_arima,000:00:03
+95abc5e9-0fa6-401f-94ec-d4d417fc33b7,1612440040.555897,21 x 1,"{'country': 'Netherlands', 'rmse': 358.91, 'mape': 958}",0.1,auto_arima,000:00:03
+94aba702-9967-4f27-8821-468c4b6b1129,1612440040.680251,21 x 1,"{'country': 'Spain', 'rmse': 233.64, 'mape': 51}",0.1,auto_arima,000:00:03
+37290623-a272-46f5-83c1-5b7b3d537b41,1612440040.810723,21 x 1,"{'country': 'Norway', 'rmse': 1344.39, 'mape': 100}",0.1,auto_arima,000:00:03
+184470eb-3d71-4a1d-9cd8-94859550ce2d,1612440040.932796,21 x 1,"{'country': 'Switzerland', 'rmse': 471.57, 'mape': 44}",0.1,auto_arima,000:00:03
+5fcb95cf-f43d-4b6d-a974-b36be50f7406,1612445508.882538,21 x 1,"{'country': 'United Kingdom', 'rmse': 4805.55, 'mape': 19}",0.1,auto_arima,000:00:01
+af4d2295-d7e4-4491-b719-e87fe2801831,1612445509.031683,21 x 1,"{'country': 'France', 'rmse': 230.66, 'mape': 26}",0.1,auto_arima,000:00:01
+4cc00066-d0f7-4ffc-8c2a-1264d5b57e82,1612445509.15226,21 x 1,"{'country': 'Belgium', 'rmse': 156.52, 'mape': 48}",0.1,auto_arima,000:00:01
+57f2e03e-d117-4287-86ad-8b3bc3c508af,1612445509.288279,21 x 1,"{'country': 'EIRE', 'rmse': 442.61, 'mape': 24}",0.1,auto_arima,000:00:01
+05707367-da88-44ef-b0ea-6aab5c6b0b1c,1612445509.411019,21 x 1,"{'country': 'Germany', 'rmse': 385.81, 'mape': 36}",0.1,auto_arima,000:00:01
+3276ab10-6f38-4988-82f6-4ab59511e334,1612445509.528179,21 x 1,"{'country': 'Portugal', 'rmse': 2895.75, 'mape': 68}",0.1,auto_arima,000:00:02
+01b90b21-82e8-479c-b222-41d2b71e4a77,1612445509.6408918,21 x 1,"{'country': 'Netherlands', 'rmse': 358.91, 'mape': 958}",0.1,auto_arima,000:00:02
+433bb889-6143-475d-b240-ed853bd9d722,1612445509.79484,21 x 1,"{'country': 'Spain', 'rmse': 233.64, 'mape': 51}",0.1,auto_arima,000:00:02
+7bc1b090-841a-40ee-b831-58346d461de0,1612445509.920162,21 x 1,"{'country': 'Norway', 'rmse': 1344.39, 'mape': 100}",0.1,auto_arima,000:00:02
+87334411-02de-4d7a-822c-1fccfa66d02d,1612445510.0428338,21 x 1,"{'country': 'Switzerland', 'rmse': 471.57, 'mape': 44}",0.1,auto_arima,000:00:02
+66d6a30a-78b7-4344-8461-9a543b8c0ab7,1612446019.689261,21 x 1,"{'country': 'United Kingdom', 'rmse': 4805.55, 'mape': 19}",0.1,auto_arima,000:00:01
+e5cd1411-6525-4986-bac4-b76a1adfefd7,1612446019.8158798,21 x 1,"{'country': 'France', 'rmse': 230.66, 'mape': 26}",0.1,auto_arima,000:00:01
+21021281-8191-45c5-9ecb-5ed3fb718988,1612446019.92094,21 x 1,"{'country': 'Belgium', 'rmse': 156.52, 'mape': 48}",0.1,auto_arima,000:00:01
+916c121e-6411-47a7-be66-869206aaa92b,1612446020.027772,21 x 1,"{'country': 'EIRE', 'rmse': 442.61, 'mape': 24}",0.1,auto_arima,000:00:01
+dd253d23-01ab-4c31-8d80-6554337453ae,1612446020.134541,21 x 1,"{'country': 'Germany', 'rmse': 385.81, 'mape': 36}",0.1,auto_arima,000:00:01
+c825be7f-dcf8-4712-b359-5cfe93199cd3,1612446020.2381299,21 x 1,"{'country': 'Portugal', 'rmse': 2895.75, 'mape': 68}",0.1,auto_arima,000:00:02
+c78ee82b-a221-4e78-9678-c9a2beeb43c7,1612446020.3417852,21 x 1,"{'country': 'Netherlands', 'rmse': 358.91, 'mape': 958}",0.1,auto_arima,000:00:02
+b04d18d4-9c84-4bb8-9b9d-68d80d96ef8a,1612446020.4435132,21 x 1,"{'country': 'Spain', 'rmse': 233.64, 'mape': 51}",0.1,auto_arima,000:00:02
+dacabec4-3d1f-4f9a-8f18-65646711eb38,1612446020.545503,21 x 1,"{'country': 'Norway', 'rmse': 1344.39, 'mape': 100}",0.1,auto_arima,000:00:02
+7af61784-57f4-4231-9be3-349198155128,1612446020.6473658,21 x 1,"{'country': 'Switzerland', 'rmse': 471.57, 'mape': 44}",0.1,auto_arima,000:00:02

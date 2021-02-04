@@ -1,0 +1,8 @@
+#create a requirements file for docker
+
+cython
+numpy
+flask
+flask_json
+pandas
+pmdarima

@@ -1,0 +1,4 @@
+unique_id,timestamp,x_shape,eval_test,model_version,model_version_note,runtime
+7597f219-0287-4e98-b4ad-3e91507d9e10,1612451378.188097,"(100, 10)",{'rmse': 0.5},0.1,test model,00:00:01
+969aebc8-3466-47d2-8685-cfc574811e9b,1612451378.188994,"(100, 10)",{'rmse': 0.5},0.1,test model,00:00:01
+6682b1b1-f0f9-43de-b7f8-180b41324f7f,1612451381.7130072,21,"{'country': <built-in function all>, 'rmse': '0.2', 'mape': '0.3'}",0.1,auto_arima,000:00:02
