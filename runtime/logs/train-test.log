@@ -240,3 +240,5 @@ e01d29ae-dd7b-452e-9eeb-a2893b24a795,1612358168.352441,5,"{'country': 'Netherlan
 a3571eca-706a-4061-875f-abc9848a4f27,1612358168.5578701,4,"{'country': 'Switzerland', 'rmse': 'NAN', 'mape': 'NAN', 'model': 'retrain'}",0.1,auto_arima,000:00:01
 2b2fee5b-3fa0-4128-a297-1cc9b33bf92c,1612451377.9650161,1 x  1,"{'country': <built-in function all>, 'rmse': '0.2', 'mape': '0.3'}",0.1,auto_arima,000:00:00
 0c26e0c6-95f3-43c4-8958-ffa8828fb77f,1612451396.783322,1 x  1,"{'country': <built-in function all>, 'rmse': '0.2', 'mape': '0.3'}",0.1,auto_arima,000:00:00
+cd07babc-ccff-4938-9542-1aa299e97bd1,1612863711.641731,1 x  1,"{'country': <built-in function all>, 'rmse': '0.2', 'mape': '0.3'}",0.1,auto_arima,000:00:00
+a18ee736-de31-4bc7-9ee0-2e73c5e47ab9,1612864465.694222,1 x  1,"{'country': <built-in function all>, 'rmse': '0.2', 'mape': '0.3'}",0.1,auto_arima,000:00:00
