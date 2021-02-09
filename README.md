@@ -7,6 +7,10 @@
  1. Please review  CS_PKJM.READMEFIRST RISE generated pdf 
  2. Should you have more time, you can spin up the python notebook and give a go on the scripts
  3. Runtime folder has  the docker version of it, you just need to Dockerfile , and access the app on http://0.0.0.0:8082
+ 4. Sample Quick commands for app.py script
+     4.1  model train : http://0.0.0.0:8082/train
+     4.2  predict: http://0.0.0.0:8082/predict 
+     4.3  model update : http://0.0.0.0:8082/update
  
  This is my first forecasting project , I enjoyed  it, then I read alot of literature, accessed alot medium articles in addition to course content provided
  
